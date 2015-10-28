@@ -79,7 +79,7 @@ public class MessageUtil {
 		StringBuffer sb = new StringBuffer();
 		sb.append("欢迎关注，请按照菜单提示进行操作:\n\n");
 		sb.append("1、关于我");
-		sb.append("2、我的照片");
+		sb.append("2、家乡");
 		sb.append("3、其他");
 		sb.append("回复? 调出此菜单");
 		return sb.toString();
